@@ -4,10 +4,11 @@ import 'bootstrap/dist/css/bootstrap.css';
 import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Todo from './components/todo/index';
+// import Todo from './components/todo/index';
+import Topics from './components/javascript/topics';
 ReactDOM.render(
   <React.StrictMode>
-    <Todo />
+    <Topics />
   </React.StrictMode>,
   document.getElementById('root')
 );

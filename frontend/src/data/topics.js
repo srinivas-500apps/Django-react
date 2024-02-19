@@ -1,0 +1,81 @@
+const javascriptTopics = {
+    basics: [
+      'Variables and Data Types',
+      'Operators',
+      'Control Flow (if, else, switch)',
+      'Loops (for, while)',
+      'Functions',
+      'Arrays',
+      'Objects',
+    ],
+    advanced: [
+      'Closures',
+      'Prototypes and Inheritance',
+      'Promises and Asynchronous Programming',
+      'Callback Functions',
+      'ES6+ Features (Arrow Functions, Destructuring, Spread/Rest Operator)',
+      'Modules (import/export)',
+    ],
+    browserEnvironment: [
+      'DOM Manipulation',
+      'Events',
+      'AJAX and Fetch API',
+      'Local Storage and Session Storage',
+      'Cookies',
+      'WebSockets',
+      'Service Workers (Progressive Web Apps)',
+    ],
+    modernJavaScript: [
+      'Async/Await',
+      'Generators',
+      'Template Literals',
+      'Promise.all and Promise.race',
+      'Map, Set, WeakMap, WeakSet',
+      'Iterators and Iterables',
+    ],
+    librariesFrameworks: [
+      'React.js (Components, State, Props)',
+      'Vue.js (Components, Directives, Vue Router)',
+      'Angular (Components, Services, Dependency Injection)',
+      'Node.js (Server-side JavaScript)',
+      'Express.js (Web Application Framework for Node.js)',
+    ],
+    tools: [
+      'npm (Node Package Manager)',
+      'Webpack (Module Bundler)',
+      'Babel (JavaScript Compiler)',
+      'ESLint (JavaScript Linter)',
+      'Jest (JavaScript Testing Framework)',
+    ],
+    patterns: [
+      'Module Pattern',
+      'Singleton Pattern',
+      'Observer Pattern',
+      'Factory Pattern',
+      'Promise Pattern',
+      'Callback Pattern',
+    ],
+    designPatterns: [
+      'Singleton Pattern',
+      'Factory Pattern',
+      'Observer Pattern',
+      'Strategy Pattern',
+      'Decorator Pattern',
+      'Module Pattern',
+    ],
+    testing: [
+      'Unit Testing',
+      'Integration Testing',
+      'End-to-End Testing',
+      'Test-Driven Development (TDD)',
+    ],
+    security: [
+      'Cross-Site Scripting (XSS)',
+      'Cross-Site Request Forgery (CSRF)',
+      'Content Security Policy (CSP)',
+      'HTTPS and SSL/TLS',
+    ],
+  };
+
+
+export default javascriptTopics

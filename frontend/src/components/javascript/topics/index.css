@@ -1,0 +1,17 @@
+.scroll-container{
+    background-color: #f8f9fa;
+    display: flex;
+    justify-items: baseline;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.container {
+    display: grid;
+    place-items: center;
+    /* background-color: bisque; */
+    margin: 10px;
+
+  }
